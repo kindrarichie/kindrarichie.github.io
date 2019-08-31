@@ -21,14 +21,14 @@
 title: CSUN CIT 480 Class Blog
 email: kindra.richie.714@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  My latests projects.
+  My latest class projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kindrarichie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  kindrarichie
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
