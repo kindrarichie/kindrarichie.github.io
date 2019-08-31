@@ -28,7 +28,7 @@ url: "https://kindrarichie.github.io" # the base hostname & protocol for your si
 github_username:  kindrarichie
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
