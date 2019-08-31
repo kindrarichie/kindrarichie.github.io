@@ -14,7 +14,6 @@ gem "slate"
 gem "tactile"
 gem "rouge"
 gem "jekyll-mentions"
-gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "github-pages", group: :jekyll_plugins
