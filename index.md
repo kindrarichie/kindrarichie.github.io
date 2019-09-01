@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### [Blog 1 August 31 2019](./another-page.html)
+### [Blog 1 August 31 2019](./blog-1.html)
 
 [Link to another page](./another-page.html).
 
