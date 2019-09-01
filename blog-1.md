@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Blog post 1
+## Blog Post 1
 
 Week 08/31/2019
 
