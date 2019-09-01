@@ -4,7 +4,7 @@ layout: default
 
 
 ### [Blog 1 
-### 08/31/2019](.another-page.html).
+### 08/31/2019](./another-page.html).
 
 [Link to another page](./another-page.html).
 
