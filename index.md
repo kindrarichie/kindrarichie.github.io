@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+### [Blog 1 
+### 08/31/2019](.another-page.html).
 
 [Link to another page](./another-page.html).
 
