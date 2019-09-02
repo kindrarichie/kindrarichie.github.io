@@ -5,4 +5,4 @@ layout: default
 
  
 
-### [Blog 1 August 31 2019](./blog-1.html)
+Repository of the projects I am currently working on for the CSUN fall 2019 semester class CIT 480/L. 
