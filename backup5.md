@@ -2,42 +2,30 @@
 layout: default
 ---
 
-##Blog Post 5
+## Blog Post 5
 
 
 
-The past two weeks we worked on our first project assignment. The project tasks are to:
+This week and the last week we worked on our first project assignment. The project tasks are to:
 
-  -Select a group leader
+  1. Select a group leader
+  2. Purchase a domain
+  3. Setup AWS VPC
+  4. Setup a Web Server on AWS EC2
+  5. Setup the domain using AWS Route53 
+  6. Generate TLS Certificates
+  7. Create an Ansible Playbook that can install a web server and generate a generic webpage with our team names and team members
+  8. Create an AWS diagram showing all of our infrastructure
+  9. Document our work
   
-  -Purchase a domain
-  
-  -Setup an AWS VPC
-  
-  -Setup a Web Server on AWS EC2
-  
-  -Setup the domain using AWS Route53
-  
-  -Generate TLS Certificates
-  
-  -Create and Ansibile Playbook that can install a web server and generate a generic webpage with our team name and team members
-  
-  -Create an AWS diagram showing our infrastructure
-  
-  -Document our work
-  
-My teammate is the group leader for the assignment. My individual task are to:
+My teammate is the group leader for this assignment. My individual tasks are to:
 
-  -Setup the AWS VPC
-  
-  -Generate the webpage
-  
-  -Create the service diagram
-  
-  -Aid in documentation
-  
-  -Aid in creating the presentation
-  
+  1. Setup AWS VPC
+  2. Generate the webpage
+  3. Create the service diagram
+  4. Aid in documentation 
+  5. Aid in creating the presentation
+
 One of the first tasks was to create a virtual private cloud and break our given subnet into 
 public and private subnetworks to allow services in AWS to function properly. AWS does provide a
 VPC wizard, but I wanted to create the VPC manually so that I could understand each part. I chose 
@@ -79,4 +67,3 @@ This week resulted in me becoming much more comfortable using the AWS CLI.
 
 
 [back](../blog.html)
-  
