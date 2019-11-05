@@ -54,7 +54,7 @@ Next, I created the web server instances using the code :
      }
     } 
     
-I then created a security group for my web server instances. Next I created a bastion of jump (with it's security group) instance to provide secure access to the web server instances that will be located in the private subnets of my VPC.
+I then created a security group for my web server instances. Next, I created a bastion of jump (with it's security group) instance to provide secure access to the web server instances that will be located in the private subnets of my VPC.
 
 To create my ALB and its security group I used the code:
 
