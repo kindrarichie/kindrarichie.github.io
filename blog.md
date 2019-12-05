@@ -30,6 +30,8 @@ layout: default
 
 <a href="2019-11-22-Blog-Entry-11.html">Post 11 November 22 2019</a>
 
+<a href="2019-12-06-Blog-Entry-12.html">Post 12 December 06 2019</a>
+
 
 
 
