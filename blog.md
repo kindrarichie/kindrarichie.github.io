@@ -32,29 +32,11 @@ layout: default
 
 <a href="2019-12-06-Blog-Entry-12.html">Post 12 December 06 2019</a>
 
-<a href="2020-01-31-Blog-Entry-13.html">Post 13 January 31 2020</a>
-
 
 ## CIT 481
 
 <a href="2020-01-31-Blog-Entry-0.html">Post 0 January 31 2020</a>
 
-
-
-|          CIT 480         |         CIT 481                |
-| Post 0 September 06 2019 | Post 13 January 31 2020 |
-| Post 1 September 13 2019 |                         |
-| Post 2 September 20 2019 |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
-|                          |                         |
 
 
 
