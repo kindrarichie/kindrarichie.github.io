@@ -41,6 +41,8 @@ layout: default
 
 <a href="2020-02-14-Blog-Entry-2.html">Post 2 February 14 2020</a>
 
+<a href="2020-02-21-Blog-Entry-3.html">Post 3 February 21 2020</a>
+
 
 
 
